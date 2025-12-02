@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.institut.inventari","l":"Categoria"},{"p":"com.institut.inventari","l":"InventariRepository"},{"p":"com.institut.inventari","l":"InventariService"},{"p":"com.institut.inventari","l":"Material"},{"p":"com.institut.inventari","l":"Prestec"}]
