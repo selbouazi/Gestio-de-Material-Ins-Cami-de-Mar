@@ -5,19 +5,23 @@ Permet afegir, llistar, prestar i retornar materials.
 
 
 ## Estructura del projecte
-Gestio-de-Material-Ins-Cami-de-Mar/ 
-├── src/ → Codi font Java 
-  │ └── com/institut/inventari/ 
-  │ ├── Categoria.java 
-  │ ├── Material.java 
-  │ ├── Prestec.java 
-  │ ├── InventariRepository.java 
-  │ └── InventariService.java 
-├── doc/ → Javadoc generat 
-├── DocumentacioUsuari.pdf → Manual d’usuari 
-├── DocumentacioTecnica.pdf → Manual tècnic 
-└── README.md → Aquest fitxer
+## Estructura del projecte
 
+- **src/** → Codi font Java  
+  - com/institut/inventari/  
+    - Categoria.java  
+    - Material.java  
+    - Prestec.java  
+    - InventariRepository.java  
+    - InventariService.java  
+
+- **doc/** → Javadoc generat  
+
+- **DocumentacioUsuari.pdf** → Manual d’usuari  
+
+- **DocumentacioTecnica.pdf** → Manual tècnic  
+
+- **README.md** → Aquest fitxer
 
 ## Execució
 
