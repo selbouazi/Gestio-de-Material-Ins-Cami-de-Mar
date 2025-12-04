@@ -5,7 +5,6 @@ Permet afegir, llistar, prestar i retornar materials.
 
 
 ## Estructura del projecte
-## Estructura del projecte
 
 - **src/** → Codi font Java  
   - com/institut/inventari/  
